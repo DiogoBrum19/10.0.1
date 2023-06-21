@@ -1,0 +1,35 @@
+html{
+  background-color: rgb(43, 41, 41);
+}
+body{
+  display: flex;
+  justify-content: center;
+}
+h1{
+  font-size: 100px;
+  text-align: center;
+  margin-right: 40px;
+  color: white;
+}
+input{
+  border-radius: 20px;
+  height: 30px;
+  width: 450px;
+  position: relative;
+}
+button{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(77, 74, 74);
+  
+}
+.lupinha{
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 15px;
+}
+.itens{
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 15px;
+}
